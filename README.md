@@ -1,5 +1,5 @@
 # Generative_Music_Exercises
-This repository contains some work derived from studying the [Generative Music AI course by Valerio Velardo](https://www.youtube.com/@ValerioVelardoTheSoundofAI/playlists)
+This repository contains some simple exercises derived from studying the [Generative Music AI course by Valerio Velardo](https://www.youtube.com/@ValerioVelardoTheSoundofAI/playlists)
 
 Puredata abstraction used for sound synthesis by [MikeMorenoDSP](https://github.com/MikeMorenoDSP/pd-mkmr)
 
